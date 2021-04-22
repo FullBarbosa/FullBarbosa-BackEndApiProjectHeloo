@@ -9,8 +9,6 @@
     |
   <a href="#dependencias">Utilizar projeto</a>
     |
-  <a href="#Projeto">Pagina do projeto</a>
-
   </div>
 </div>
 
@@ -70,3 +68,5 @@
 # Clone this repository
 $ git clone https://github.com/FullBarbosa/DT_money.git DtMoney
 ```
+
+<p>Para utilizar o projeto é necessario ter o java 11 instalado na maquina, dessa forma ao executar o arquivo na Ide, o maven baixará todas as dependecias necessarias</p>
